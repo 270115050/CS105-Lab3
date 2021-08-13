@@ -1,0 +1,5 @@
+﻿  CS105 LAB 3.cpp
+C:\Users\270115050\OneDrive - UP Education\Desktop\CS105\CS105 LAB 3\CS105 LAB 3\ChildrenShapes.h(99,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\270115050\OneDrive - UP Education\Desktop\CS105\CS105 LAB 3\CS105 LAB 3\ChildrenShapes.h(101,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\270115050\OneDrive - UP Education\Desktop\CS105\CS105 LAB 3\CS105 LAB 3\CS105 LAB 3.cpp(17,18): warning C4101: 'isTrue2': unreferenced local variable
+  CS105 LAB 3.vcxproj -> C:\Users\270115050\OneDrive - UP Education\Desktop\CS105\CS105 LAB 3\Debug\CS105 LAB 3.exe
